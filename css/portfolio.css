@@ -81,6 +81,10 @@ img {
     background-color: #222;
 }
 
+.bg-blue {
+    background-color: #EAFAFF;
+}
+
 .btn-primary {
     border-color: #ff6600;
     text-transform: uppercase;
