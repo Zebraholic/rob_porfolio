@@ -288,6 +288,19 @@ header {
     -o-background-size: cover;
 }
 
+.header1 {
+    text-align: center;
+    color: #fff;
+    background-attachment: scroll;
+    background-image: url(../img/header3.jpg);
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
@@ -889,3 +902,56 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #ff6600;
 }
+
+.timebox {
+    color: white;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #fff;
+    background-color: #0066ff;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 5em;
+    text-align: center;
+}
+
+.timebox1 {
+    color: white;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #fff;
+    background-color: #3399ff;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 5em;
+    text-align: center;
+}
+
+.timebox2 {
+    color: white;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #fff;
+    background-color: #6666ff;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 5em;
+    text-align: center;
+}
+
+.timebox3 {
+    color: white;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #fff;
+    background-color: #9999ff;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 5em;
+    text-align: center;
+}
+
+.subtitle1 {
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    font-size: 4em;
+    padding-bottom: 20px;
+}
+
